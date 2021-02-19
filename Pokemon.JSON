@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "pikachu",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png",
+    "powers": "static, lightning-rod"
+  }, 
+  {
+    "id": 2,
+    "name": "eevee",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/133.png",
+    "powers": "run-away, adaptability, anticipation"
+  },
+  {
+    "id": 3,
+    "name": "charizard",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png",
+    "powers": "blaze, solar-power, charizard"
+  },
+  {
+    "id": 4,
+    "name": "mewtwo",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
+    "powers": "pressure, unnerve, mewtwo"
+  }
+]
